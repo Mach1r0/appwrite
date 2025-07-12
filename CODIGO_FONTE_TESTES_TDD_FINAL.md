@@ -2,7 +2,6 @@
 
 **Autor:** Daniel Ferreira Nunes - 211061565  
 **Disciplina:** PTOSS4 - TDD  
-**Data:** Dezembro 2024  
 **GitHub Fork:** [Mach1r0/appwrite](https://github.com/Mach1r0/appwrite)
 
 ---
